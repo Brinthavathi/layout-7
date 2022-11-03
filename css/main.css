@@ -1,0 +1,56 @@
+.container
+{
+	display:flex;
+	border:2px solid;
+	background-color:black;
+	margin:2px;
+	height:700px;
+}
+.flex
+{
+	display:flex;
+	background-color:white;
+	height:400px;
+	width:60%;
+	margin-left:250px;
+	margin-top:100px;
+}
+.flex1
+{
+	background-color:gray;
+	height:140px;
+	padding:20px;
+	width:15%;
+	margin-top:100px;
+	margin-left:100px;
+}
+
+.flex2
+{
+	background-color:skyblue;
+	height:140px;
+	padding:20px;
+	width:4%;
+	margin-top:150px;
+	margin-left:-10px;
+}
+
+.flex3
+{
+	background-color:gray;
+	height:110px;
+	padding:20px;
+	width:15%;
+	margin-top:20px;
+	margin-left:280px;
+}
+
+.flex4
+{
+	background-color:silver;
+	height:110px;
+	padding:20px;
+	width:15%;
+	margin-top:200px;
+	margin-left:-160px;
+}
